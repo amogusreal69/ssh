@@ -20,7 +20,7 @@ jobs:
           mkdir -p public/keys
           cp -r old.sh public/
           cp -r script.sh public/
-          cp -r keys/* public/keys/*
+          cp -r keys/* public/keys/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
