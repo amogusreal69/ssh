@@ -44,12 +44,7 @@ Contributors help shape the future of whatever this is. To start contributing yo
 
 ## 🌟 Stargazers
 
-<a href="https://github.com/amogusreal69/ssh/stargazers/">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="http://reporoster.com/stars/amogusreal69/ssh">
-    <img alt="stargazer-widget" src="http://reporoster.com/stars/dark/amogusreal69/ssh">
-  </picture>
-</a>
+[![Stargazers repo roster for @amogusreal69/ssh](https://reporoster.com/stars/dark/amogusreal69/ssh)](https://github.com/amogusreal69/ssh/stargazers)
 
 ## 📜 Licensing
 
