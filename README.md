@@ -8,7 +8,7 @@
   <br/><br/>
   <a href="https://ssh.amogus.works">Website</a> <b>·</b>
   <a href="mailto:amogusreal69420@proton.me">Contact</a> <b>·</b>
-  <a href="https://github.com/amogusreal69/ssh/wiki">Documentation</a>
+  <a href="https://github.com/amogusreal69/ssh#-command-list">Documentation</a>
 </p>
 
 <!-- Introduction -->
