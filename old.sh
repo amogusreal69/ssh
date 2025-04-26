@@ -15,5 +15,5 @@
 RED="\e[1;31m"
 ENDCOLOR="\e[0m"
 
-echo -e "\n${RED}Starting from 26/04/2025, I have switched my SSH key's, which makes this script unusable. Please use my new script instead with: wget -qO- https://ssh.amogus.works/script.sh${ENDCOLOR}\n"
-echo -e "\n${RED}You can also use this previous script at https://cdn.lowtaperfade.art/ssh, although it's not recommended.${ENDCOLOR}\n"
+echo -e "\n${RED}Starting from 26/04/2025, I have switched my SSH key's, which makes this script unusable. Please use my new script instead with: wget -qO- https://ssh.amogus.works/script.sh${ENDCOLOR}"
+echo -e "${RED}You can also use this previous script at https://cdn.lowtaperfade.art/ssh, although it's not recommended.${ENDCOLOR}\n"
