@@ -13,9 +13,6 @@
 # Have fun! Made with ❤️ by amogus
 
 help() {
-    echo -e "\e[36m=========================================\e[0m"
-    echo -e "\033[92m            SSH Key Manager             \e[0m"
-    echo -e "\e[36m=========================================\e[0m"
     echo -e "\033[92m● Usage:\e[0m"
     echo -e "  script.sh [add|remove|check|help]"
     echo ""
@@ -25,9 +22,8 @@ help() {
     echo -e "  \e[33m○ check\e[0m   - Checks if the SSH key is installed."
     echo -e "  \e[33m○ help\e[0m    - Displays this help message."
     echo ""
-    echo -e "\033[92m● GitLab Repository:\e[0m"
-    echo -e "  \e[33m○ https://votion.dev/amogus/ssh\e[0m"
-    echo -e "\e[36m=========================================\e[0m"
+    echo -e "\033[92m● GitHub Repository:\e[0m"
+    echo -e "  \e[33m○ https://github.com/amogusreal69/ssh\e[0m"
     exit 0
 }
 
@@ -104,7 +100,7 @@ next_steps() {
     echo -e "      \e[33m○ Protection Against Phishing:\e[0m SSH keys are not vulnerable to phishing attacks like passwords are."
     echo -e "  \e[33m○ Remove the SSH key:\e[0m Use \`wget -qO- https://ssh.amogus.works/script.sh | bash -s -- remove\` if you no longer need the key."
     echo -e "  \e[33m○ Check key status:\e[0m Use \`wget -qO- https://ssh.amogus.works/script.sh | bash -s -- check\` to confirm if the key is installed."
-    echo -e "  \e[33m○ Visit the repository:\e[0m Check out the GitLab repo at \e[33mhttps://votion.dev/amogus/ssh\e[0m for updates."
+    echo -e "  \e[33m○ Visit the repository:\e[0m Check out the GitLab repo at \e[33mhttps://github.com/amogusreal69/ssh\e[0m for updates."
     echo -e "\e[36m=========================================\e[0m"
 }
 
@@ -151,6 +147,6 @@ case "$1" in
         help
         ;;
     *)
-        help
+        echo -e "\e[1;31m● Invalid command or argument! Run the same script with the --help argument for the command list.\e[0m"
         ;;
 esac
