@@ -32,7 +32,7 @@ add() {
     chmod 700 ~/.ssh
     touch ~/.ssh/authorized_keys
 
-    grep -F -e "amogusreal69420@proton.me" -e "amogus's support certificate, check next_steps.txt in root directory for more" ~/.ssh/authorized_keys >/dev/null 2>&1
+    grep -F -e "amogusreal69420@proton.me" -e "amogus's support key, check next_steps.txt in root directory for more" ~/.ssh/authorized_keys >/dev/null 2>&1
 
     if [ $? -eq 0 ]; then
         echo -e "\033[93m● Support SSH key is already installed!\e[0m"
@@ -69,19 +69,19 @@ add() {
 }
 
 remove_ssh_key() {
-    grep -F -e "amogusreal69420@proton.me" -e "amogus's support certificate, check next_steps.txt in root directory for more" ~/.ssh/authorized_keys >/dev/null 2>&1
+    grep -F -e "amogusreal69420@proton.me" -e "amogus's support key, check next_steps.txt in root directory for more" ~/.ssh/authorized_keys >/dev/null 2>&1
 
     if [ $? -ne 0 ]; then
         echo -e "\e[1;31m● Support SSH key not found!\e[0m"
     else
         sed -i '/amogusreal69420@proton.me/d' ~/.ssh/authorized_keys
-        sed -i "/amogus's support certificate, check next_steps.txt in root directory for more/d" ~/.ssh/authorized_keys
+        sed -i "/amogus's support key, check next_steps.txt in root directory for more/d" ~/.ssh/authorized_keys
         echo -e "\033[92m● Support SSH key removed successfully!\e[0m"
     fi
 }
 
 check_ssh_key() {
-    grep -F -e "amogusreal69420@proton.me" -e "amogus's support certificate, check next_steps.txt in root directory for more" ~/.ssh/authorized_keys >/dev/null 2>&1
+    grep -F -e "amogusreal69420@proton.me" -e "amogus's support key, check next_steps.txt in root directory for more" ~/.ssh/authorized_keys >/dev/null 2>&1
 
     if [ $? -eq 0 ]; then
         echo -e "\033[92m● Support SSH key IS installed.\e[0m"
