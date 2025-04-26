@@ -51,6 +51,10 @@ Contributors help shape the future of whatever this is. To start contributing yo
   </picture>
 </a>
 
+## 📜 Licensing
+
+This project is licensed under the [MIT license](https://github.com/amogusreal69/ssh/blob/main/LICENSE). If you want to make your own, I will make a documentation soon on this repository.
+
 ## 💖 Thanks to
 
 [**VirtFusion**](https://virtfusion.com/) for giving me the idea to do this originally.
