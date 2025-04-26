@@ -53,7 +53,7 @@ Contributors help shape the future of whatever this is. To start contributing yo
 
 ## 📜 Licensing
 
-This project is licensed under the [MIT license](https://github.com/amogusreal69/ssh/blob/main/LICENSE). If you want to make your own, I will make a documentation soon on this repository.
+This project is licensed under the [GNU General Public License v3.0](https://github.com/amogusreal69/ssh/blob/main/LICENSE). If you want to make your own, I will make a documentation soon on this repository.
 
 ## 💖 Thanks to
 
