@@ -38,9 +38,7 @@ wget -qO- https://ssh.amogus.works/script.sh | bash -s -- check
 
 Contributors help shape the future of whatever this is. To start contributing you have to [fork this repository](https://github.com/amogusreal69/ssh/fork) and [open a pull request](https://github.com/amogusreal69/ssh/compare).
 
-<a href="https://github.com/amogusreal69/ssh/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=amogusreal69/ssh" />
-</a>
+[![Contributors repo roster for @amogusreal69/ssh](https://contrib.rocks/image?repo=amogusreal69/ssh)](https://github.com/amogusreal69/ssh/graphs/contributors)
 
 ## 🌟 Stargazers
 
