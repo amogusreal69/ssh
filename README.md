@@ -1,4 +1,3 @@
-# If you are in the https://ssh.amogus.works website, you can click here to go to the repository: https://github.com/amogusreal69/ssh
 <br/>
 <picture>
   <img alt="SSH 🔥" src="https://github.com/user-attachments/assets/b819658e-2f41-4cbc-ab66-a4726e833426" height="100">
@@ -8,7 +7,8 @@ A script to add my SSH key. I don't know why I made it public.
 <br/><br/>
 <a href="https://ssh.amogus.works">Website</a> <b>·</b>
 <a href="mailto:amogusreal69420@proton.me">Contact</a> <b>·</b>
-<a href="https://github.com/amogusreal69/ssh#-command-list">Documentation</a>
+<a href="https://github.com/amogusreal69/ssh#-command-list">Documentation</a> <b>·</b>
+<a href="https://github.com/amogusreal69/ssh">GitHub Repository</a>
 
 ## 🧩 Introduction
 
