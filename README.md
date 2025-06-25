@@ -1,3 +1,4 @@
+# If you are in the https://ssh.amogus.works website, you can click here to go to the repository: https://github.com/amogusreal69/ssh
 <br/>
 <picture>
   <img alt="SSH 🔥" src="https://github.com/user-attachments/assets/b819658e-2f41-4cbc-ab66-a4726e833426" height="100">
